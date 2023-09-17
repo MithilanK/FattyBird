@@ -1,0 +1,2 @@
+com/mithilank/fattybird/client/HtmlLauncher.java
+ com.mithilank.fattybird.client.HtmlLauncher
