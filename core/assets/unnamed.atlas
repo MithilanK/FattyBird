@@ -1,0 +1,20 @@
+
+unnamed.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Quit
+  rotate: false
+  xy: 1, 1
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Redo
+  rotate: false
+  xy: 66, 1
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
