@@ -1,0 +1,2 @@
+com/mithilank/fattybird/desktop/DesktopLauncher.java
+ com.mithilank.fattybird.desktop.DesktopLauncher
